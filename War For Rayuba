@@ -1,0 +1,64 @@
+{
+  "title": "<War For Rayuba - Starla and the Bodyguard>",
+  "description": "<The journey of a father and daughter>",
+  "artist": "<https://twitter.com/OtherFishmonger>",
+  "cover": "<https://i.imgur.com/wCR6bfd.png>",
+  "chapters": {
+    "1": {
+      "title": "Round 1 - Scary Monsters",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/dhFJmw5/"
+      },
+      "last_updated": "1616368746"
+    },
+     "2": {
+      "title": "Round 2 - This Feels Like A Picnic",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/SYELhQ8/"
+      },
+      "last_updated": "1616368746"
+    },
+     "3": {
+      "title": "Round 3 - What Will We Have? (LOST - NON-CANON)",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/T0tiUdm/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Round 3 - Family Matters (WON - CANON)",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/nxnj7LO/"
+      },
+      "last_updated": "1616368746"
+    },
+     "5": {
+      "title": "Round 4 - The Art Of Death",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/PDTpAld/"
+      },
+      "last_updated": "1616368746"
+    },
+     "6": {
+      "title": "Round 5 - Little Worms (LOST - NON-CANON)",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/P3D2NRQ/"
+      },
+      "last_updated": "1616368746"
+    },
+     "7": {
+     "title": "Round 5 - To Sunder Fragile Threads (WON - CANON)",
+     "volume": "1",
+     "groups": {
+       "No group": "/proxy/api/imgur/chapter/LtSVkVx/"
+     },
+     "last_updated": "1616368746"
+    }
+  }
+}
