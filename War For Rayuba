@@ -5,6 +5,14 @@
   "cover": "https://media.discordapp.net/attachments/803333491454509158/833843908248993832/Babby_Starla.png",
   "chapters": {
     "1": {
+      "title": "Intro Comic - Prelude",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/AzZ0g72/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
       "title": "Round 1 - Scary Monsters",
       "volume": "1",
       "groups": {
@@ -12,7 +20,7 @@
       },
       "last_updated": "1616368746"
     },
-     "2": {
+     "3": {
       "title": "Round 2 - This Feels Like A Picnic",
       "volume": "1",
       "groups": {
@@ -20,7 +28,7 @@
       },
       "last_updated": "1616368746"
     },
-     "3": {
+     "4": {
       "title": "Round 3 - What Will We Have? (LOST - NON-CANON)",
       "volume": "1",
       "groups": {
@@ -28,7 +36,7 @@
       },
       "last_updated": "1616368746"
     },
-    "4": {
+    "5": {
       "title": "Round 3 - Family Matters (WON - CANON)",
       "volume": "1",
       "groups": {
@@ -36,7 +44,7 @@
       },
       "last_updated": "1616368746"
     },
-     "5": {
+     "6": {
       "title": "Round 4 - The Art Of Death",
       "volume": "1",
       "groups": {
@@ -44,7 +52,7 @@
       },
       "last_updated": "1616368746"
     },
-     "6": {
+     "7": {
       "title": "Round 5 - Little Worms (LOST - NON-CANON)",
       "volume": "1",
       "groups": {
@@ -52,13 +60,22 @@
       },
       "last_updated": "1616368746"
     },
-     "7": {
+     "8": {
      "title": "Round 5 - To Sunder Fragile Threads (WON - CANON)",
      "volume": "1",
      "groups": {
        "No group": "/proxy/api/imgur/chapter/LtSVkVx/"
      },
      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Round 6 - A Slight Detour",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/rj5JzhP/"
+      },
+      "last_updated": "1616368746"
+    },
     }
   }
 }
