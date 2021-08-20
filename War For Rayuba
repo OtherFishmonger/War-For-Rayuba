@@ -75,6 +75,22 @@
         "No group": "/proxy/api/imgur/chapter/rj5JzhP/"
       },
       "last_updated": "1616368746"
+    },
+    "10": {
+     "title": "Interlude #1",
+     "volume": "1",
+     "groups": {
+       "No group": "/proxy/api/imgur/chapter/2InphAN/"
+     },
+     "last_updated": "1616368746"
+    },
+    "11": {
+     "title": "Round 7 - What Lies In The Past",
+     "volume": "1",
+     "groups": {
+       "No group": "/proxy/api/imgur/chapter/O3lV4ny/"
+     },
+     "last_updated": "1616368746"
     }
   }
 }
