@@ -99,13 +99,20 @@
        "No group": "/proxy/api/imgur/chapter/9eI8HPl/"
      },
      "last_updated": "1616368746"
-
    },
     "13": {
      "title": "Round 8 - The Broken Moon Festival",
      "volume": "1",
      "groups": {
        "No group": "/proxy/api/imgur/chapter/3MUjbj8/"
+     },
+     "last_updated": "1616368746"
+    },
+        "13": {
+     "title": "Round 9 - The Grandest Battle (Collab, Unfinished)",
+     "volume": "1",
+     "groups": {
+       "No group": "/proxy/api/imgur/chapter/y3N9ekl/"
      },
      "last_updated": "1616368746"
     }
