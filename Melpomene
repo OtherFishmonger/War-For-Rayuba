@@ -1,0 +1,56 @@
+{
+  "title": "Goku Royale",
+  "description": "-------",
+  "artist": "https://twitter.com/OtherFishmonger",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Intro Comic",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/NCj0N94/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Round 1",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/cq24gcT/"
+      },
+      "last_updated": "1616368746"
+    },
+     "3": {
+      "title": "Round 2",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/Z3wi2O6/"
+      },
+      "last_updated": "1616368746"
+    },
+     "4": {
+      "title": "Round 2",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/gtxG4qw/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Round 3",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/z5yxkH4/"
+      },
+      "last_updated": "1616368746"
+    },
+     "6": {
+      "title": "Round 4 -  - Winning Comic (LMop)",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/YOp5llx/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
